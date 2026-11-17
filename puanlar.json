@@ -1,5 +1,5 @@
 {
-  "son_guncelleme": "2026-11-18 01:45:52",
+  "son_guncelleme": "2026-11-18 01:50:47",
   "ilk_30_tablosu": {
     "AhBeAbii": {
       "sira": 1,
@@ -17,17 +17,17 @@
       "sira": 4,
       "xp": 5900
     },
-    "Ketcap": {
+    "Metsy": {
       "sira": 5,
+      "xp": 5900
+    },
+    "Ketcap": {
+      "sira": 6,
       "xp": 5800
     },
     "AquiveR": {
-      "sira": 6,
-      "xp": 5600
-    },
-    "Metsy": {
       "sira": 7,
-      "xp": 2800
+      "xp": 5600
     },
     "cerme": {
       "sira": 8,
