@@ -1,5 +1,5 @@
 {
-  "son_guncelleme": "2026-11-17 20:45:55",
+  "son_guncelleme": "2026-11-17 20:51:01",
   "ilk_30_tablosu": {
     "AhBeAbii": {
       "sira": 1,
@@ -57,13 +57,13 @@
       "sira": 14,
       "xp": 1550
     },
-    "TheSertey": {
-      "sira": 15,
-      "xp": 1400
-    },
     "QuaGeld": {
+      "sira": 15,
+      "xp": 1500
+    },
+    "TheSertey": {
       "sira": 16,
-      "xp": 1300
+      "xp": 1400
     },
     "kemkum": {
       "sira": 17,
