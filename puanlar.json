@@ -1,5 +1,5 @@
 {
-  "son_guncelleme": "2026-11-18 00:35:46",
+  "son_guncelleme": "2026-11-18 00:40:47",
   "ilk_30_tablosu": {
     "AhBeAbii": {
       "sira": 1,
@@ -7,7 +7,7 @@
     },
     "Alvenna": {
       "sira": 2,
-      "xp": 5900
+      "xp": 5970
     },
     "Nanca": {
       "sira": 3,
@@ -21,33 +21,33 @@
       "sira": 5,
       "xp": 5800
     },
-    "Metsy": {
+    "AquiveR": {
       "sira": 6,
-      "xp": 2800
+      "xp": 5600
     },
-    "cerme": {
+    "Metsy": {
       "sira": 7,
       "xp": 2800
     },
-    "LABDARDAB": {
+    "cerme": {
       "sira": 8,
       "xp": 2800
     },
-    "Soleill": {
+    "LABDARDAB": {
       "sira": 9,
       "xp": 2800
     },
-    "CiddiyetLutfen": {
+    "Soleill": {
       "sira": 10,
+      "xp": 2800
+    },
+    "CiddiyetLutfen": {
+      "sira": 11,
       "xp": 2750
     },
     "Els": {
-      "sira": 11,
-      "xp": 2550
-    },
-    "AquiveR": {
       "sira": 12,
-      "xp": 2500
+      "xp": 2550
     },
     "Shiro_rv": {
       "sira": 13,
