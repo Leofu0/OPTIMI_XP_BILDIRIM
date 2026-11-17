@@ -2,7 +2,7 @@ name: XP Takip Botu
 
 on:
   schedule:
-    - cron: '*/20 * * * *'
+    - cron: '*/5 * * * *'
   workflow_dispatch:
 
 permissions:
@@ -28,6 +28,7 @@ jobs:
       - name: XP kontrolünü çalıştır
         env:
           NTFY_KANAL_ADI: ${{ secrets.NTFY_KANAL_ADI }}
+          NTFY_DIGER_KANAL_ADI: ${{ secrets.NTFY_DIGER_KANAL_ADI }}
         run: python takip.py
 
       - name: Güncel puanları kaydet
