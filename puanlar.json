@@ -1,5 +1,5 @@
 {
-  "son_guncelleme": "2026-11-18 01:10:49",
+  "son_guncelleme": "2026-11-18 01:16:15",
   "ilk_30_tablosu": {
     "AhBeAbii": {
       "sira": 1,
@@ -61,21 +61,21 @@
       "sira": 15,
       "xp": 2150
     },
-    "Riah": {
+    "kemkum": {
       "sira": 16,
+      "xp": 2000
+    },
+    "Riah": {
+      "sira": 17,
       "xp": 1550
     },
     "QuaGeld": {
-      "sira": 17,
+      "sira": 18,
       "xp": 1500
     },
     "TheSertey": {
-      "sira": 18,
-      "xp": 1400
-    },
-    "kemkum": {
       "sira": 19,
-      "xp": 1200
+      "xp": 1400
     },
     "Sloyix": {
       "sira": 20,
