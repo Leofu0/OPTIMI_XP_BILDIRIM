@@ -1,5 +1,5 @@
 {
-  "son_guncelleme": "2026-11-17 17:45:49",
+  "son_guncelleme": "2026-11-17 17:51:19",
   "ilk_30_tablosu": {
     "AhBeAbii": {
       "sira": 1,
@@ -65,8 +65,12 @@
       "sira": 16,
       "xp": 1300
     },
-    "Sloyix": {
+    "kemkum": {
       "sira": 17,
+      "xp": 1050
+    },
+    "Sloyix": {
+      "sira": 18,
       "xp": 500
     }
   }
