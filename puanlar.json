@@ -1,5 +1,5 @@
 {
-  "son_guncelleme": "2026-11-17 20:41:02",
+  "son_guncelleme": "2026-11-17 20:45:55",
   "ilk_30_tablosu": {
     "AhBeAbii": {
       "sira": 1,
@@ -41,15 +41,15 @@
       "sira": 10,
       "xp": 2600
     },
-    "AquiveR": {
+    "Els": {
       "sira": 11,
+      "xp": 2550
+    },
+    "AquiveR": {
+      "sira": 12,
       "xp": 2500
     },
     "Shiro_rv": {
-      "sira": 12,
-      "xp": 2450
-    },
-    "Els": {
       "sira": 13,
       "xp": 2450
     },
@@ -67,7 +67,7 @@
     },
     "kemkum": {
       "sira": 17,
-      "xp": 1100
+      "xp": 1200
     },
     "Sloyix": {
       "sira": 18,
