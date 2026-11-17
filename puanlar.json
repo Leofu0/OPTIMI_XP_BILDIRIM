@@ -1,41 +1,41 @@
 {
-  "son_guncelleme": "2026-11-17 20:10:48",
+  "son_guncelleme": "2026-11-17 20:16:22",
   "ilk_30_tablosu": {
-    "AhBeAbii": {
+    "Nanca": {
       "sira": 1,
+      "xp": 2850
+    },
+    "AhBeAbii": {
+      "sira": 2,
+      "xp": 2800
+    },
+    "Ketcap": {
+      "sira": 3,
       "xp": 2800
     },
     "Alvenna": {
-      "sira": 2,
+      "sira": 4,
       "xp": 2760
     },
-    "Nanca": {
-      "sira": 3,
+    "CiddiyetLutfen": {
+      "sira": 5,
       "xp": 2750
     },
     "Metsy": {
-      "sira": 4,
-      "xp": 2700
-    },
-    "Ketcap": {
-      "sira": 5,
-      "xp": 2700
-    },
-    "LABDARDAB": {
       "sira": 6,
       "xp": 2700
     },
-    "canim": {
+    "LABDARDAB": {
       "sira": 7,
       "xp": 2700
     },
-    "CiddiyetLutfen": {
+    "canim": {
       "sira": 8,
-      "xp": 2650
+      "xp": 2700
     },
     "cerme": {
       "sira": 9,
-      "xp": 2600
+      "xp": 2700
     },
     "Soleill": {
       "sira": 10,
@@ -57,11 +57,11 @@
       "sira": 14,
       "xp": 1450
     },
-    "QuaGeld": {
-      "sira": 15,
-      "xp": 1300
-    },
     "TheSertey": {
+      "sira": 15,
+      "xp": 1400
+    },
+    "QuaGeld": {
       "sira": 16,
       "xp": 1300
     },
