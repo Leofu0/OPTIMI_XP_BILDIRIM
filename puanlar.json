@@ -1,9 +1,9 @@
 {
-  "son_guncelleme": "2026-11-18 20:20:48",
+  "son_guncelleme": "2026-11-18 20:25:41",
   "ilk_30_tablosu": {
     "Alvenna": {
       "sira": 1,
-      "xp": 6060
+      "xp": 6110
     },
     "AhBeAbii": {
       "sira": 2,
@@ -17,11 +17,11 @@
       "sira": 4,
       "xp": 5950
     },
-    "canim": {
-      "sira": 5,
-      "xp": 5900
-    },
     "Metsy": {
+      "sira": 5,
+      "xp": 5950
+    },
+    "canim": {
       "sira": 6,
       "xp": 5900
     },
@@ -51,7 +51,7 @@
     },
     "Shiro_rv": {
       "sira": 13,
-      "xp": 2450
+      "xp": 2600
     },
     "BrokenNeck": {
       "sira": 14,
