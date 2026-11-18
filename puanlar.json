@@ -1,5 +1,5 @@
 {
-  "son_guncelleme": "2026-11-18 14:35:38",
+  "son_guncelleme": "2026-11-18 14:40:50",
   "ilk_30_tablosu": {
     "AhBeAbii": {
       "sira": 1,
@@ -21,13 +21,13 @@
       "sira": 5,
       "xp": 5900
     },
-    "CiddiyetLutfen": {
-      "sira": 6,
-      "xp": 5850
-    },
     "Ketcap": {
+      "sira": 6,
+      "xp": 5900
+    },
+    "CiddiyetLutfen": {
       "sira": 7,
-      "xp": 5800
+      "xp": 5850
     },
     "Els": {
       "sira": 8,
