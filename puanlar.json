@@ -1,17 +1,17 @@
 {
-  "son_guncelleme": "2026-11-18 23:50:56",
+  "son_guncelleme": "2026-11-18 23:55:42",
   "ilk_30_tablosu": {
     "Alvenna": {
       "sira": 1,
       "xp": 6630
     },
-    "Ketcap": {
-      "sira": 2,
-      "xp": 6450
-    },
     "AhBeAbii": {
+      "sira": 2,
+      "xp": 6550
+    },
+    "Ketcap": {
       "sira": 3,
-      "xp": 6050
+      "xp": 6450
     },
     "Nanca": {
       "sira": 4,
