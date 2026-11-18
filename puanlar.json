@@ -1,5 +1,5 @@
 {
-  "son_guncelleme": "2026-11-18 23:40:43",
+  "son_guncelleme": "2026-11-18 23:45:57",
   "ilk_30_tablosu": {
     "Alvenna": {
       "sira": 1,
@@ -43,23 +43,23 @@
     },
     "Soleill": {
       "sira": 11,
+      "xp": 3450
+    },
+    "BrokenNeck": {
+      "sira": 12,
       "xp": 2950
     },
     "cerme": {
-      "sira": 12,
+      "sira": 13,
       "xp": 2900
     },
-    "Shiro_rv": {
-      "sira": 13,
-      "xp": 2600
-    },
-    "BrokenNeck": {
-      "sira": 14,
-      "xp": 2450
-    },
     "Rhodri": {
+      "sira": 14,
+      "xp": 2800
+    },
+    "Shiro_rv": {
       "sira": 15,
-      "xp": 2300
+      "xp": 2600
     },
     "Riah": {
       "sira": 16,
