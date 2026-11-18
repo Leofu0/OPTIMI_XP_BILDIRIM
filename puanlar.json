@@ -1,5 +1,5 @@
 {
-  "son_guncelleme": "2026-11-18 19:15:49",
+  "son_guncelleme": "2026-11-18 19:25:03",
   "ilk_30_tablosu": {
     "Alvenna": {
       "sira": 1,
@@ -31,7 +31,7 @@
     },
     "CiddiyetLutfen": {
       "sira": 8,
-      "xp": 5850
+      "xp": 5870
     },
     "Els": {
       "sira": 9,
@@ -69,13 +69,13 @@
       "sira": 17,
       "xp": 2050
     },
-    "QuaGeld": {
-      "sira": 18,
-      "xp": 1500
-    },
     "TheSertey": {
+      "sira": 18,
+      "xp": 1950
+    },
+    "QuaGeld": {
       "sira": 19,
-      "xp": 1400
+      "xp": 1500
     },
     "SkretWeep": {
       "sira": 20,
