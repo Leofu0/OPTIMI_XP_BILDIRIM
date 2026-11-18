@@ -1,5 +1,5 @@
 {
-  "son_guncelleme": "2026-11-18 19:25:43",
+  "son_guncelleme": "2026-11-18 19:35:39",
   "ilk_30_tablosu": {
     "Alvenna": {
       "sira": 1,
@@ -59,7 +59,7 @@
     },
     "Rhodri": {
       "sira": 15,
-      "xp": 2150
+      "xp": 2250
     },
     "Riah": {
       "sira": 16,
@@ -77,9 +77,9 @@
       "sira": 19,
       "xp": 1500
     },
-    "SkretWeep": {
+    "Sloyix": {
       "sira": 20,
-      "xp": 1250
+      "xp": 1300
     }
   }
 }
