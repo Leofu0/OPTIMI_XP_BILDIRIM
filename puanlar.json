@@ -1,5 +1,5 @@
 {
-  "son_guncelleme": "2026-11-18 16:25:42",
+  "son_guncelleme": "2026-11-18 16:31:06",
   "ilk_30_tablosu": {
     "Alvenna": {
       "sira": 1,
@@ -29,21 +29,21 @@
       "sira": 7,
       "xp": 5850
     },
-    "Els": {
+    "LABDARDAB": {
       "sira": 8,
+      "xp": 5850
+    },
+    "Els": {
+      "sira": 9,
       "xp": 5650
     },
     "AquiveR": {
-      "sira": 9,
+      "sira": 10,
       "xp": 5600
     },
     "cerme": {
-      "sira": 10,
-      "xp": 2900
-    },
-    "LABDARDAB": {
       "sira": 11,
-      "xp": 2800
+      "xp": 2900
     },
     "Soleill": {
       "sira": 12,
