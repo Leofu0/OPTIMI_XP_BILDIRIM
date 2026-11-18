@@ -1,5 +1,5 @@
 {
-  "son_guncelleme": "2026-11-18 10:10:46",
+  "son_guncelleme": "2026-11-18 10:15:55",
   "ilk_30_tablosu": {
     "AhBeAbii": {
       "sira": 1,
@@ -29,25 +29,25 @@
       "sira": 7,
       "xp": 5600
     },
-    "cerme": {
+    "Els": {
       "sira": 8,
+      "xp": 3050
+    },
+    "cerme": {
+      "sira": 9,
       "xp": 2900
     },
     "LABDARDAB": {
-      "sira": 9,
-      "xp": 2800
-    },
-    "Soleill": {
       "sira": 10,
       "xp": 2800
     },
-    "CiddiyetLutfen": {
+    "Soleill": {
       "sira": 11,
-      "xp": 2750
+      "xp": 2800
     },
-    "Els": {
+    "CiddiyetLutfen": {
       "sira": 12,
-      "xp": 2550
+      "xp": 2800
     },
     "Shiro_rv": {
       "sira": 13,
