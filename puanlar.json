@@ -1,23 +1,23 @@
 {
-  "son_guncelleme": "2026-11-19 20:11:06",
+  "son_guncelleme": "2026-11-19 20:15:50",
   "ilk_30_tablosu": {
     "Alvenna": {
       "sira": 1,
-      "xp": 6730
+      "xp": 6780
     },
     "AhBeAbii": {
       "sira": 2,
-      "xp": 6650
+      "xp": 6700
     },
     "Nanca": {
       "sira": 3,
       "xp": 6600
     },
-    "Ketcap": {
-      "sira": 4,
-      "xp": 6550
-    },
     "canim": {
+      "sira": 4,
+      "xp": 6600
+    },
+    "Ketcap": {
       "sira": 5,
       "xp": 6550
     },
@@ -25,13 +25,13 @@
       "sira": 6,
       "xp": 6550
     },
-    "CiddiyetLutfen": {
-      "sira": 7,
-      "xp": 6540
-    },
     "LABDARDAB": {
+      "sira": 7,
+      "xp": 6550
+    },
+    "CiddiyetLutfen": {
       "sira": 8,
-      "xp": 5950
+      "xp": 6540
     },
     "Els": {
       "sira": 9,
@@ -55,7 +55,7 @@
     },
     "cerme": {
       "sira": 14,
-      "xp": 3000
+      "xp": 3050
     },
     "Rhodri": {
       "sira": 15,
