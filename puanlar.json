@@ -1,5 +1,5 @@
 {
-  "son_guncelleme": "2026-11-19 19:35:42",
+  "son_guncelleme": "2026-11-19 19:40:51",
   "ilk_30_tablosu": {
     "Alvenna": {
       "sira": 1,
@@ -73,13 +73,13 @@
       "sira": 18,
       "xp": 2500
     },
-    "QuaGeld": {
+    "SkretWeep": {
       "sira": 19,
-      "xp": 1650
+      "xp": 1850
     },
-    "Sloyix": {
+    "QuaGeld": {
       "sira": 20,
-      "xp": 1300
+      "xp": 1650
     }
   }
 }
