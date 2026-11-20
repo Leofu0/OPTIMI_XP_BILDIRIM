@@ -1,5 +1,5 @@
 {
-  "son_guncelleme": "2026-11-20 17:56:02",
+  "son_guncelleme": "2026-11-20 18:01:23",
   "ilk_30_tablosu": {
     "Alvenna": {
       "sira": 1,
@@ -29,33 +29,33 @@
       "sira": 7,
       "xp": 7900
     },
-    "cerme": {
+    "Shiro_rv": {
       "sira": 8,
+      "xp": 7550
+    },
+    "cerme": {
+      "sira": 9,
       "xp": 7350
     },
     "CiddiyetLutfen": {
-      "sira": 9,
+      "sira": 10,
       "xp": 6930
     },
     "canim": {
-      "sira": 10,
+      "sira": 11,
       "xp": 6690
     },
     "Els": {
-      "sira": 11,
+      "sira": 12,
       "xp": 5800
     },
     "AquiveR": {
-      "sira": 12,
+      "sira": 13,
       "xp": 5650
     },
     "BrokenNeck": {
-      "sira": 13,
-      "xp": 4400
-    },
-    "Shiro_rv": {
       "sira": 14,
-      "xp": 3250
+      "xp": 4400
     },
     "Rhodri": {
       "sira": 15,
