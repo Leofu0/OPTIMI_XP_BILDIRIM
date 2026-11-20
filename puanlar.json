@@ -1,5 +1,5 @@
 {
-  "son_guncelleme": "2026-11-20 09:01:14",
+  "son_guncelleme": "2026-11-20 09:05:34",
   "ilk_30_tablosu": {
     "Alvenna": {
       "sira": 1,
@@ -17,19 +17,19 @@
       "sira": 4,
       "xp": 7900
     },
-    "canim": {
+    "Soleill": {
       "sira": 5,
+      "xp": 7900
+    },
+    "canim": {
+      "sira": 6,
       "xp": 6670
     },
     "Metsy": {
-      "sira": 6,
-      "xp": 6600
-    },
-    "LABDARDAB": {
       "sira": 7,
       "xp": 6600
     },
-    "Soleill": {
+    "LABDARDAB": {
       "sira": 8,
       "xp": 6600
     },
