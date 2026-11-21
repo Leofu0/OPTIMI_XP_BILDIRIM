@@ -1,5 +1,5 @@
 {
-  "son_guncelleme": "2026-11-21 22:20:57",
+  "son_guncelleme": "2026-11-21 22:25:43",
   "ilk_30_tablosu": {
     "Alvenna": {
       "sira": 1,
@@ -21,13 +21,13 @@
       "sira": 5,
       "xp": 8000
     },
-    "Nanca": {
-      "sira": 6,
-      "xp": 7950
-    },
     "Metsy": {
+      "sira": 6,
+      "xp": 8000
+    },
+    "Nanca": {
       "sira": 7,
-      "xp": 7900
+      "xp": 7950
     },
     "Shiro_rv": {
       "sira": 8,
@@ -47,7 +47,7 @@
     },
     "canim": {
       "sira": 12,
-      "xp": 6860
+      "xp": 6960
     },
     "AquiveR": {
       "sira": 13,
