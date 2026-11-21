@@ -1,5 +1,5 @@
 {
-  "son_guncelleme": "2026-11-21 14:25:41",
+  "son_guncelleme": "2026-11-21 14:31:15",
   "ilk_30_tablosu": {
     "Alvenna": {
       "sira": 1,
@@ -9,11 +9,11 @@
       "sira": 2,
       "xp": 8120
     },
-    "Nanca": {
-      "sira": 3,
-      "xp": 7950
-    },
     "LABDARDAB": {
+      "sira": 3,
+      "xp": 8000
+    },
+    "Nanca": {
       "sira": 4,
       "xp": 7950
     },
