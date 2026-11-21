@@ -1,5 +1,5 @@
 {
-  "son_guncelleme": "2026-11-21 17:55:44",
+  "son_guncelleme": "2026-11-21 18:01:15",
   "ilk_30_tablosu": {
     "Alvenna": {
       "sira": 1,
@@ -37,17 +37,17 @@
       "sira": 9,
       "xp": 7350
     },
-    "CiddiyetLutfen": {
+    "Els": {
       "sira": 10,
+      "xp": 7100
+    },
+    "CiddiyetLutfen": {
+      "sira": 11,
       "xp": 7070
     },
     "canim": {
-      "sira": 11,
-      "xp": 6860
-    },
-    "Els": {
       "sira": 12,
-      "xp": 5900
+      "xp": 6860
     },
     "AquiveR": {
       "sira": 13,
