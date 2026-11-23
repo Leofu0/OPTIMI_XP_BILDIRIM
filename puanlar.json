@@ -1,5 +1,5 @@
 {
-  "son_guncelleme": "2026-11-23 11:50:52",
+  "son_guncelleme": "2026-11-23 11:56:07",
   "ilk_30_tablosu": {
     "Alvenna": {
       "sira": 1,
@@ -53,13 +53,13 @@
       "sira": 13,
       "xp": 5650
     },
-    "Rhodri": {
-      "sira": 14,
-      "xp": 4750
-    },
     "BrokenNeck": {
+      "sira": 14,
+      "xp": 4850
+    },
+    "Rhodri": {
       "sira": 15,
-      "xp": 4500
+      "xp": 4750
     },
     "xoxo": {
       "sira": 16,
