@@ -1,5 +1,5 @@
 {
-  "son_guncelleme": "2026-11-24 13:31:14",
+  "son_guncelleme": "2026-11-24 13:35:44",
   "ilk_30_tablosu": {
     "Alvenna": {
       "sira": 1,
@@ -39,7 +39,7 @@
     },
     "CiddiyetLutfen": {
       "sira": 10,
-      "xp": 7560
+      "xp": 7570
     },
     "canim": {
       "sira": 11,
@@ -53,13 +53,13 @@
       "sira": 13,
       "xp": 5650
     },
-    "Rhodri": {
-      "sira": 14,
-      "xp": 4900
-    },
     "BrokenNeck": {
+      "sira": 14,
+      "xp": 4950
+    },
+    "Rhodri": {
       "sira": 15,
-      "xp": 4850
+      "xp": 4900
     },
     "QuaGeld": {
       "sira": 16,
