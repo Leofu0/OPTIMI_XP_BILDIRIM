@@ -1,5 +1,5 @@
 {
-  "son_guncelleme": "2026-11-24 23:35:41",
+  "son_guncelleme": "2026-11-24 23:40:48",
   "ilk_30_tablosu": {
     "Alvenna": {
       "sira": 1,
@@ -61,25 +61,25 @@
       "sira": 15,
       "xp": 5150
     },
-    "BrokenNeck": {
+    "Lhymne": {
       "sira": 16,
-      "xp": 4950
+      "xp": 5000
     },
-    "Rhodri": {
+    "BrokenNeck": {
       "sira": 17,
       "xp": 4950
     },
-    "QuaGeld": {
+    "Rhodri": {
       "sira": 18,
-      "xp": 4650
+      "xp": 4950
     },
-    "Teralol": {
+    "QuaGeld": {
       "sira": 19,
       "xp": 4650
     },
-    "Wenfourt": {
+    "Teralol": {
       "sira": 20,
-      "xp": 4550
+      "xp": 4650
     }
   }
 }
