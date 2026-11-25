@@ -1,5 +1,5 @@
 {
-  "son_guncelleme": "2026-11-25 19:55:49",
+  "son_guncelleme": "2026-11-25 20:01:13",
   "ilk_30_tablosu": {
     "Alvenna": {
       "sira": 1,
@@ -13,21 +13,21 @@
       "sira": 3,
       "xp": 9200
     },
-    "Ketcap": {
+    "Soleill": {
       "sira": 4,
+      "xp": 9150
+    },
+    "Ketcap": {
+      "sira": 5,
       "xp": 9100
     },
     "AhBeAbii": {
-      "sira": 5,
+      "sira": 6,
       "xp": 8900
     },
     "Shiro_rv": {
-      "sira": 6,
-      "xp": 8700
-    },
-    "Soleill": {
       "sira": 7,
-      "xp": 8550
+      "xp": 8700
     },
     "Nanca": {
       "sira": 8,
