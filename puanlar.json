@@ -1,5 +1,5 @@
 {
-  "son_guncelleme": "2026-11-26 00:55:59",
+  "son_guncelleme": "2026-11-26 01:01:11",
   "ilk_30_tablosu": {
     "Alvenna": {
       "sira": 1,
@@ -47,7 +47,7 @@
     },
     "Els": {
       "sira": 12,
-      "xp": 7350
+      "xp": 7650
     },
     "Xdmuratabixd": {
       "sira": 13,
@@ -69,17 +69,17 @@
       "sira": 17,
       "xp": 6150
     },
-    "kemkum": {
+    "Wenfourt": {
       "sira": 18,
+      "xp": 6150
+    },
+    "kemkum": {
+      "sira": 19,
       "xp": 5950
     },
-    "TYADevo": {
-      "sira": 19,
-      "xp": 5750
-    },
-    "WatchMeBaka": {
+    "baby": {
       "sira": 20,
-      "xp": 5750
+      "xp": 5950
     }
   }
 }
