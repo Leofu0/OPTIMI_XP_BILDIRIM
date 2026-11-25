@@ -1,5 +1,5 @@
 {
-  "son_guncelleme": "2026-11-26 00:21:19",
+  "son_guncelleme": "2026-11-26 00:25:42",
   "ilk_30_tablosu": {
     "Alvenna": {
       "sira": 1,
@@ -53,33 +53,33 @@
       "sira": 13,
       "xp": 6750
     },
-    "BrokenNeck": {
+    "Lhymne": {
       "sira": 14,
+      "xp": 6650
+    },
+    "BrokenNeck": {
+      "sira": 15,
       "xp": 6550
     },
     "Teralol": {
-      "sira": 15,
+      "sira": 16,
       "xp": 6350
     },
     "TwigG": {
-      "sira": 16,
+      "sira": 17,
       "xp": 6150
     },
     "kemkum": {
-      "sira": 17,
+      "sira": 18,
       "xp": 5950
     },
     "TYADevo": {
-      "sira": 18,
-      "xp": 5750
-    },
-    "WatchMeBaka": {
       "sira": 19,
       "xp": 5750
     },
-    "SaviorJea": {
+    "WatchMeBaka": {
       "sira": 20,
-      "xp": 5700
+      "xp": 5750
     }
   }
 }
