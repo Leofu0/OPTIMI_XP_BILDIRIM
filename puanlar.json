@@ -1,29 +1,29 @@
 {
-  "son_guncelleme": "2026-11-26 00:01:09",
+  "son_guncelleme": "2026-11-26 00:05:47",
   "ilk_30_tablosu": {
-    "AhBeAbii": {
+    "Alvenna": {
       "sira": 1,
+      "xp": 11280
+    },
+    "AhBeAbii": {
+      "sira": 2,
       "xp": 10900
     },
     "Metsy": {
-      "sira": 2,
-      "xp": 10740
+      "sira": 3,
+      "xp": 10840
     },
     "Ketcap": {
-      "sira": 3,
-      "xp": 10700
+      "sira": 4,
+      "xp": 10800
     },
     "LABDARDAB": {
-      "sira": 4,
-      "xp": 10700
+      "sira": 5,
+      "xp": 10750
     },
     "CiddiyetLutfen": {
-      "sira": 5,
-      "xp": 9870
-    },
-    "Alvenna": {
       "sira": 6,
-      "xp": 9680
+      "xp": 9920
     },
     "Soleill": {
       "sira": 7,
@@ -53,33 +53,33 @@
       "sira": 13,
       "xp": 6750
     },
-    "TwigG": {
+    "BrokenNeck": {
       "sira": 14,
+      "xp": 6550
+    },
+    "Teralol": {
+      "sira": 15,
+      "xp": 6350
+    },
+    "TwigG": {
+      "sira": 16,
       "xp": 6150
     },
     "kemkum": {
-      "sira": 15,
+      "sira": 17,
       "xp": 5950
     },
     "TYADevo": {
-      "sira": 16,
+      "sira": 18,
       "xp": 5750
     },
     "WatchMeBaka": {
-      "sira": 17,
+      "sira": 19,
       "xp": 5750
     },
-    "AquiveR": {
-      "sira": 18,
-      "xp": 5650
-    },
-    "Rhodri": {
-      "sira": 19,
-      "xp": 5550
-    },
-    "berkxd": {
+    "SaviorJea": {
       "sira": 20,
-      "xp": 5200
+      "xp": 5700
     }
   }
 }
