@@ -1,5 +1,5 @@
 {
-  "son_guncelleme": "2026-11-26 02:10:53",
+  "son_guncelleme": "2026-11-26 02:15:55",
   "ilk_30_tablosu": {
     "Alvenna": {
       "sira": 1,
@@ -65,19 +65,19 @@
       "sira": 16,
       "xp": 6550
     },
-    "victrix": {
+    "kemkum": {
       "sira": 17,
+      "xp": 6500
+    },
+    "victrix": {
+      "sira": 18,
       "xp": 6450
     },
     "Teralol": {
-      "sira": 18,
+      "sira": 19,
       "xp": 6350
     },
     "TwigG": {
-      "sira": 19,
-      "xp": 6150
-    },
-    "Wenfourt": {
       "sira": 20,
       "xp": 6150
     }
