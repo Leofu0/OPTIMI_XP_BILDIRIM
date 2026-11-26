@@ -1,5 +1,5 @@
 {
-  "son_guncelleme": "2026-11-26 22:45:52",
+  "son_guncelleme": "2026-11-26 22:50:51",
   "ilk_30_tablosu": {
     "Alvenna": {
       "sira": 1,
@@ -65,21 +65,21 @@
       "sira": 16,
       "xp": 6650
     },
-    "kemkum": {
+    "Ghobes": {
       "sira": 17,
+      "xp": 6600
+    },
+    "camper": {
+      "sira": 18,
+      "xp": 6600
+    },
+    "kemkum": {
+      "sira": 19,
       "xp": 6500
     },
     "victrix": {
-      "sira": 18,
-      "xp": 6500
-    },
-    "mrCPD": {
-      "sira": 19,
-      "xp": 6450
-    },
-    "Teralol": {
       "sira": 20,
-      "xp": 6400
+      "xp": 6500
     }
   }
 }
