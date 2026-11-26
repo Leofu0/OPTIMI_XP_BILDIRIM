@@ -1,5 +1,5 @@
 {
-  "son_guncelleme": "2026-11-26 12:55:46",
+  "son_guncelleme": "2026-11-26 13:01:17",
   "ilk_30_tablosu": {
     "Alvenna": {
       "sira": 1,
@@ -73,11 +73,11 @@
       "sira": 18,
       "xp": 6500
     },
-    "Teralol": {
-      "sira": 19,
-      "xp": 6350
-    },
     "mrCPD": {
+      "sira": 19,
+      "xp": 6400
+    },
+    "Teralol": {
       "sira": 20,
       "xp": 6350
     }
