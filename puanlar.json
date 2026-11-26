@@ -1,9 +1,9 @@
 {
-  "son_guncelleme": "2026-11-26 20:10:51",
+  "son_guncelleme": "2026-11-26 20:15:53",
   "ilk_30_tablosu": {
     "Alvenna": {
       "sira": 1,
-      "xp": 11300
+      "xp": 11350
     },
     "AhBeAbii": {
       "sira": 2,
@@ -17,13 +17,13 @@
       "sira": 4,
       "xp": 10800
     },
-    "Soleill": {
-      "sira": 5,
-      "xp": 10790
-    },
     "LABDARDAB": {
+      "sira": 5,
+      "xp": 10800
+    },
+    "Soleill": {
       "sira": 6,
-      "xp": 10750
+      "xp": 10790
     },
     "Shiro_rv": {
       "sira": 7,
