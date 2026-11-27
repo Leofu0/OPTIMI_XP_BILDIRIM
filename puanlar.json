@@ -1,5 +1,5 @@
 {
-  "son_guncelleme": "2026-11-27 13:45:51",
+  "son_guncelleme": "2026-11-27 13:51:10",
   "ilk_30_tablosu": {
     "Alvenna": {
       "sira": 1,
@@ -9,17 +9,17 @@
       "sira": 2,
       "xp": 11350
     },
-    "Ketcap": {
+    "Metsy": {
       "sira": 3,
+      "xp": 11190
+    },
+    "Ketcap": {
+      "sira": 4,
       "xp": 11150
     },
     "LABDARDAB": {
-      "sira": 4,
-      "xp": 10950
-    },
-    "Metsy": {
       "sira": 5,
-      "xp": 10890
+      "xp": 10950
     },
     "Soleill": {
       "sira": 6,
