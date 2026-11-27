@@ -1,5 +1,5 @@
 {
-  "son_guncelleme": "2026-11-28 01:45:52",
+  "son_guncelleme": "2026-11-28 01:51:07",
   "ilk_30_tablosu": {
     "Alvenna": {
       "sira": 1,
@@ -37,41 +37,41 @@
       "sira": 9,
       "xp": 10050
     },
-    "cerme": {
+    "Ghobes": {
       "sira": 10,
+      "xp": 9700
+    },
+    "camper": {
+      "sira": 11,
+      "xp": 9700
+    },
+    "cerme": {
+      "sira": 12,
       "xp": 8800
     },
     "Els": {
-      "sira": 11,
+      "sira": 13,
       "xp": 8350
     },
     "canim": {
-      "sira": 12,
-      "xp": 8090
+      "sira": 14,
+      "xp": 8140
     },
     "Xdmuratabixd": {
-      "sira": 13,
+      "sira": 15,
       "xp": 7000
     },
     "xoxo": {
-      "sira": 14,
+      "sira": 16,
       "xp": 6950
     },
     "BrokenNeck": {
-      "sira": 15,
+      "sira": 17,
       "xp": 6800
     },
     "Lhymne": {
-      "sira": 16,
-      "xp": 6750
-    },
-    "Ghobes": {
-      "sira": 17,
-      "xp": 6700
-    },
-    "camper": {
       "sira": 18,
-      "xp": 6700
+      "xp": 6750
     },
     "BlahBlahBlah": {
       "sira": 19,
