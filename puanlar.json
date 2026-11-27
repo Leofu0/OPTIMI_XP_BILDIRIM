@@ -1,35 +1,35 @@
 {
-  "son_guncelleme": "2026-11-27 21:31:05",
+  "son_guncelleme": "2026-11-27 21:35:45",
   "ilk_30_tablosu": {
     "Alvenna": {
       "sira": 1,
       "xp": 11670
     },
-    "AhBeAbii": {
+    "CiddiyetLutfen": {
       "sira": 2,
+      "xp": 11400
+    },
+    "AhBeAbii": {
+      "sira": 3,
       "xp": 11390
     },
     "Metsy": {
-      "sira": 3,
+      "sira": 4,
       "xp": 11210
     },
     "Soleill": {
-      "sira": 4,
+      "sira": 5,
       "xp": 11180
     },
     "Ketcap": {
-      "sira": 5,
-      "xp": 11150
-    },
-    "LABDARDAB": {
       "sira": 6,
       "xp": 11150
     },
-    "Shiro_rv": {
+    "LABDARDAB": {
       "sira": 7,
-      "xp": 10400
+      "xp": 11150
     },
-    "CiddiyetLutfen": {
+    "Shiro_rv": {
       "sira": 8,
       "xp": 10400
     },
