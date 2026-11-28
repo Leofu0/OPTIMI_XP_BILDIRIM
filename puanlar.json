@@ -1,25 +1,25 @@
 {
-  "son_guncelleme": "2026-11-28 03:55:47",
+  "son_guncelleme": "2026-11-28 04:01:13",
   "ilk_30_tablosu": {
     "Alvenna": {
       "sira": 1,
       "xp": 12310
     },
-    "Ketcap": {
+    "Metsy": {
       "sira": 2,
+      "xp": 11810
+    },
+    "Ketcap": {
+      "sira": 3,
       "xp": 11750
     },
     "AhBeAbii": {
-      "sira": 3,
+      "sira": 4,
       "xp": 11490
     },
     "CiddiyetLutfen": {
-      "sira": 4,
-      "xp": 11400
-    },
-    "Metsy": {
       "sira": 5,
-      "xp": 11260
+      "xp": 11400
     },
     "LABDARDAB": {
       "sira": 6,
