@@ -1,5 +1,5 @@
 {
-  "son_guncelleme": "2026-11-28 15:46:00",
+  "son_guncelleme": "2026-11-28 15:51:12",
   "ilk_30_tablosu": {
     "Alvenna": {
       "sira": 1,
@@ -49,37 +49,37 @@
       "sira": 12,
       "xp": 9350
     },
-    "Els": {
+    "berkxd": {
       "sira": 13,
+      "xp": 8750
+    },
+    "Els": {
+      "sira": 14,
       "xp": 8350
     },
     "canim": {
-      "sira": 14,
+      "sira": 15,
       "xp": 8190
     },
     "Xdmuratabixd": {
-      "sira": 15,
+      "sira": 16,
       "xp": 7250
     },
     "BrokenNeck": {
-      "sira": 16,
+      "sira": 17,
       "xp": 7100
     },
     "Lhymne": {
-      "sira": 17,
+      "sira": 18,
       "xp": 7050
     },
     "xoxo": {
-      "sira": 18,
+      "sira": 19,
       "xp": 6950
     },
     "mrCPD": {
-      "sira": 19,
-      "xp": 6750
-    },
-    "TwigG": {
       "sira": 20,
-      "xp": 6650
+      "xp": 6750
     }
   }
 }
